@@ -14,11 +14,12 @@ body {
 .container {
     font-family: 'Poppins', sans-serif;
     background: url('../img/bg-desktop.svg') #674baf center center no-repeat;
+    background-position: left;
     max-width: 100%;
     margin: 0 auto;
     width: 1440px;
     height: 800px;
-    padding: 45px 55px;
+    padding: 45px 60px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 

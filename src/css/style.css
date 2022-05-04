@@ -1,0 +1,90 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.container {
+    font-family: 'Poppins', sans-serif;
+    background: url('../img/bg-desktop.svg') #674baf center center no-repeat;
+    max-width: 100%;
+    margin: 0 auto;
+    width: 1440px;
+    height: 800px;
+    padding: 45px 65px;
+}
+
+main {
+    display: flex;
+}
+
+/* Logo */
+header .logo img {
+    width: 220px;
+    margin-bottom: 90px;
+}
+
+/* Informações */
+.info {
+    margin-left: 40px;
+    color: #fff;
+    margin-top: 50px;
+}
+
+.info .title {
+    font-weight: 600;
+    font-size: 3rem;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.info .text {
+    font-weight: 400;
+    font-size: 1.4rem;
+    margin-bottom: 20px;
+}
+
+.info .btn-register a {
+    text-decoration: none;
+    padding: 20px;
+    color: #674baf;
+    background-color: #fff;
+    width: 150px;
+    height: 20px;
+    border-radius: 30px;
+    font-size: 1.5rem;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info .btn-register:hover a {
+    background-color: #e882e8;
+    color: #fff;
+}
+
+/* Social */
+footer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.social a .fab {
+    color: #fff;
+    font-size: 1.6rem;
+    border: 1.2px solid;
+    border-radius: 50px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    margin: 5px;
+    padding: 5.2px;
+}
+
+.social a:hover .fab {
+    color: #fe57fe;
+}

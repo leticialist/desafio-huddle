@@ -1,4 +1,4 @@
-@media(max-width:995px) {
+@media(max-width:1195px) {
     main {
         display: block;
     }
@@ -46,6 +46,13 @@
 
     .info .btn-register {
         margin-bottom: 50px;
+    }
+}
+
+
+@media (max-width:585px) {
+    .info .title {
+        font-size: 3rem;
     }
 }
 

@@ -18,7 +18,7 @@ body {
     margin: 0 auto;
     width: 1440px;
     height: 800px;
-    padding: 45px 65px;
+    padding: 45px 55px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
@@ -36,19 +36,19 @@ header .logo img {
 .info {
     margin-left: 40px;
     color: #fff;
-    margin-top: 50px;
+    margin-top: 40px;
 }
 
 .info .title {
     font-weight: 600;
-    font-size: 3rem;
+    font-size: 4.5rem;
     text-transform: capitalize;
     margin-bottom: 20px;
 }
 
 .info .text {
     font-weight: 400;
-    font-size: 1.4rem;
+    font-size: 1.8rem;
     margin-bottom: 20px;
 }
 
@@ -57,8 +57,8 @@ header .logo img {
     padding: 20px;
     color: #674baf;
     background-color: #fff;
-    width: 150px;
-    height: 20px;
+    width: 180px;
+    height: 50px;
     border-radius: 30px;
     font-size: 1.5rem;
     box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;

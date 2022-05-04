@@ -83,11 +83,11 @@ footer {
     font-size: 1.6rem;
     border: 1.2px solid;
     border-radius: 50px;
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
     text-align: center;
     margin: 5px;
-    padding: 5px;
+    padding: 10px;
 }
 
 .social a:hover .fab {

@@ -4,7 +4,7 @@
  <img width="250px" src="https://i.imgur.com/uheDp6I.png" align="center"/>
 <h2 align="center"> Huddle Landing Page</h2>
 <p align="center"> Desafio de HTML e CSS Avançado do DevQuest. Projeto do FrontEnd Mentor - Huddle Landing Page <br> <br>
-<img align="center" src="https://i.imgur.com/ZWSYlmI.gif" width="800"> 
+<img align="center" src="https://i.imgur.com/2MvpNC3.gif" width="800"> 
 
 <h2 align="center"> Tecnologias utilizadas 💻</h2>
 <div align="center" style="display: inline_block">

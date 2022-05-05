@@ -1,11 +1,10 @@
-@media(max-width:1195px) {
+@media(max-width:1365px) {
     main {
-        display: block;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
-    
-    body {
-        display: block;
-    }
+
     .container {
         background: url('../img/bg-mobile.svg') #674baf center center no-repeat;
         background-position: top;
@@ -28,7 +27,6 @@
 
     .info {
         margin: 0;
-        width: 100%;
         display: flex;
         flex-direction: column;
         align-items: center;

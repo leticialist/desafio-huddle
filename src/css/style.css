@@ -66,6 +66,7 @@ header .logo img {
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: 0.3s;
 }
 
 .info .btn-register:hover a {
@@ -89,6 +90,7 @@ footer {
     text-align: center;
     margin: 8px;
     padding: 10px;
+    transition: 0.3s;
 }
 
 .social a:hover .fab {

@@ -22,13 +22,8 @@
     }
 
     .container {
-        background: url('../img/bg-mobile.svg') #674baf center center no-repeat;
-        background-position: top;
-        background-size: contain;
-        margin: 0 auto;
-        width: 100%;
         height: 100%;
-        padding: 35px;
+        background-size: cover;
     }
 
     .header .logo img {
@@ -68,6 +63,17 @@
     .info .title {
         font-size: 3rem;
     }
+
+    .container {
+        background: url('../img/bg-mobile.svg') #674baf center center no-repeat;
+        background-position: top;
+        background-size: contain;
+        margin: 0 auto;
+        width: 100%;
+        min-height: 100vh;
+        padding: 35px;
+    }
+
 }
 
 @media(max-width:375px) {
